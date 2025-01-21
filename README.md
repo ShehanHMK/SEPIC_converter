@@ -30,6 +30,6 @@ To ensure battery longevity and system reliability, the following protection mec
 <img src="perspective.png" alt="Perspective" width="800"/>
 
 #### Assembled PCB
-<img src="result9V.png" alt="result 9V" width="800"/>
+<img src="result9V.jpg" alt="result 9V" width="800"/>
 
 
