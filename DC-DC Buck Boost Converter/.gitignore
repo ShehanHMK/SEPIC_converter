@@ -1,0 +1,5 @@
+# Ignore all folders
+*/
+
+# Ignore BMP files
+*.bmp

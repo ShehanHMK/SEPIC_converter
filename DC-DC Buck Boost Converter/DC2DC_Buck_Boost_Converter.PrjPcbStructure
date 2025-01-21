@@ -1,0 +1,4 @@
+Record=TopLevelDocument|FileName=01.Under_voltage_detection.SchDoc|SheetNumber=1
+Record=NoMainPathDocument|SourceDocument=01.Under_voltage_detection.SchDoc|FileName=02.Power_path.SchDoc|SheetNumber=2
+Record=NoMainPathDocument|SourceDocument=01.Under_voltage_detection.SchDoc|FileName=03.Display.SchDoc|SheetNumber=3
+Record=NoMainPathDocument|SourceDocument=01.Under_voltage_detection.SchDoc|FileName=04.Mechanical.SchDoc|SheetNumber=4
